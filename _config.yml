@@ -1,10 +1,11 @@
-title: [Jackie Bastuba]
+title: "Jackie Bastuba"
 logo: "/images/headshot.png"
-description: [<h3>Data Scientist </h3>
+description: >
+  Data Scientist 
   <br><br>
   Powered by curiosity, caffeine, and the joy of solving oddly specific problems. 
   <br><br>
-  <a href="https://www.linkedin.com/in/jbastuba/">LinkedIn</a>]
+  <a href="https://www.linkedin.com/in/jbastuba/">LinkedIn</a> 
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
