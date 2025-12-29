@@ -1,66 +1,12 @@
 title: "<h2>Jackie Bastuba</h2>"
-
+logo: "/images/headshot.png"
 description: >
-  <style>
-    body, h1, h2, h3, h4, h5, h6, p, div, a, span {
-      font-family: "Segoe UI", "Segoe UI Variable", "Segoe UI Semibold",
-                   "Consolas", "Liberation Sans", sans-serif;
-      font-weight: 500; /* medium */
-    }
-
-    /* Optional: make headings slightly bolder */
-    h1, h2, h3 {
-      font-weight: 600; /* semibold */
-    }
-  </style>
-  <div style="display: flex; flex-direction: row; align-items: flex-start;">
-
-    <!-- LEFT SIDEBAR (20%) -->
-    <div style="width: 20%; min-width: 180px; padding-right: 20px;">
-
-      <img src="/images/headshot.png" alt="Headshot"
-           style="width:100%; border-radius: 8px; margin-bottom: 15px;">
-
-      <div style="font-size: 1.1em; font-weight: bold; margin-bottom: 10px;">
-        Data Scientist
-      </div>
-
-      <div style="font-size: 0.9em; color:#444; margin-bottom: 20px;">
-        Powered by curiosity, caffeine, and the joy of solving oddly specific problems.
-      </div>
-
-      <a href="https://www.linkedin.com/in/jbastuba/"
-         style="font-weight:bold; text-decoration:none;">
-         LinkedIn
-      </a>
-
-    </div>
-
-    <!-- RIGHT MAIN CONTENT (80%) -->
-    <div style="width: 80%; padding-left: 20px; border-left: 1px solid #000000;">
-
-      <div style=" max-width: 800px;">
-
-        <p>
-          Thanks for stopping by — here you'll find the work, tools, and ideas that I'm most proud of.
-        </p>
-
-        <!-- EXPERIENCE SECTION -->
-        <div style="margin-top: 25px;">
-
-          <!-- Experience #1 -->
-          <div style="padding: 10px 0;">
-            <div style="font-weight: bold; font-size: 0.85em;">Sept 2017 - present</div>
-            <div style="font-weight: bold; font-size: 1.1em;">Data Scientist, Program Strategist</div>
-            <div style="font-size: 0.9em;">Fertility Center of California</div>
-          </div>
-
-        </div>
-
-      </div>
-    </div>
-  </div>
+  Data Scientist 
+  <br><br>
+  Powered by curiosity, caffeine, and the joy of solving oddly specific problems. 
+  <br><br>
+  <a href="https://www.linkedin.com/in/jbastuba/">LinkedIn</a> 
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme
